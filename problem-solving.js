@@ -1,4 +1,7 @@
 
+letter behavior by for of loop 
+price summation 
+
 // let behavior = 'How are you ?';
 // for(let letter of behavior){
 //     console.log(letter);
